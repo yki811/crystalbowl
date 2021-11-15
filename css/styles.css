@@ -445,12 +445,12 @@ table th {
   margin-right: 190px;
 }
 .looks > img + img {
-  margin-left: 380px;
+  margin-left: 358px;
   margin-top: 8px;
 }
 .looks h1 {
 position: absolute;
-bottom: 10%;
+bottom: 2%;
 left: 10%;
 }
 .station dl {
