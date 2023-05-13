@@ -445,10 +445,10 @@ table th {
   margin-right: 190px;
 }
 .looks > img + img {
-  margin-left: 360px;
+  margin-left: 358px;
   margin-top: 8px;
 }
-.looks h1 {
+.looks h2 {
 position: absolute;
 bottom: 2%;
 left: 10%;
@@ -542,6 +542,9 @@ small {
     margin: 0 auto;
     text-align: center;
     list-style: none;
+  }
+  #access table td {
+    padding: 10px;
   }
   .footeritems {
     flex-direction: column;
@@ -641,7 +644,7 @@ small {
   margin-left: 0px;
   margin-top: 0px;
 }
-.looks h1 {
+.looks h2 {
 display: block;
 height: fit-content;
 bottom: -45%;
